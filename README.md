@@ -1,6 +1,6 @@
 # GitHub Automation
 
-GitHub automation scipt made with Python using PyGithub. The script first creates repository on Github and then clones it to your system. After cloning it adds a readme file to the project and pushes it back to Github.
+GitHub automation script made with Python using PyGithub. The script first creates repository on Github and then clones it to your system. After cloning it adds a readme file to the project and pushes it back to Github.
 
 ### Prerequisites
 
